@@ -1,0 +1,25 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/gen2bot/catkin_ws/devel_isolated/apriltag_ros/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/gen2bot/catkin_ws/devel_isolated/apriltag/include/**",
+        "/home/gen2bot/catkin_ws/src/apriltag_ros/apriltag_ros/include/**",
+        "/home/gen2bot/catkin_ws/src/wholeRobot/auger/include/**",
+        "/home/gen2bot/catkin_ws/src/wholeRobot/gen2bot/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-arm64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
